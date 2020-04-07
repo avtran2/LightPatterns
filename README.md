@@ -5,6 +5,7 @@
   ### Images
   ### Digital sketch
   ### Schematic
-  ### State diagram
+  ### Interaction diagram
+  ### State map
   ### Source code
   ### Design document
