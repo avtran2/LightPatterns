@@ -155,6 +155,7 @@ void loop() {
   digitalWrite(ledExternal, LOW);
   digitalWrite(ledInternal, LOW);
  }
+ 
  void Introduction()//Blink RGB all three colors while keeping LEDs on
  {
   // check to see if it's time to blink the LED; that is, if the difference
